@@ -109,7 +109,7 @@ line-height: 1.2;
 }
 
 .header.active{ 
-background-color: var(--white);
+background-color: var(--yellow);
 padding: 3 rem 9%;
 }
 
